@@ -26,6 +26,7 @@
   },
   "homepage": "https://github.com/thirdmadman/npm-lecture-1-etf-2024#readme",
   "dependencies": {
+    "@inquirer/prompts": "^5.0.6",
     "yargs": "^17.7.2"
   }
 }
