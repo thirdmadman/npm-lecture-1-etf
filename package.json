@@ -24,5 +24,8 @@
   "bugs": {
     "url": "https://github.com/thirdmadman/npm-lecture-1-etf-2024/issues"
   },
-  "homepage": "https://github.com/thirdmadman/npm-lecture-1-etf-2024#readme"
+  "homepage": "https://github.com/thirdmadman/npm-lecture-1-etf-2024#readme",
+  "dependencies": {
+    "yargs": "^17.7.2"
+  }
 }
