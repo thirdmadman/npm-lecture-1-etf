@@ -1,0 +1,27 @@
+{
+  "name": "npm-lecture-1-etf-2024",
+  "version": "1.0.0",
+  "description": "This is repository for NPM creation lecture 1 in ETF Coinis Hub 2024",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thirdmadman/npm-lecture-1-etf-2024.git"
+  },
+  "keywords": [
+    "npm",
+    "js",
+    "test",
+    "thirdmadman",
+    "lecture"
+  ],
+  "author": "thirdmadman",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/thirdmadman/npm-lecture-1-etf-2024/issues"
+  },
+  "homepage": "https://github.com/thirdmadman/npm-lecture-1-etf-2024#readme"
+}
