@@ -1,6 +1,6 @@
 {
   "name": "npm-lecture-1-etf",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "This is repository for NPM creation lecture 1 in ETF Coinis Hub 2024",
   "type": "module",
   "main": "index.js",
